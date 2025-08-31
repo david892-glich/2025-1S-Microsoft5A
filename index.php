@@ -143,12 +143,12 @@
         const userStoriesHTML = `
             <h2>Historias de usuario</h2>
             <div class="cards-grid">
-                <div class="card card-user-story" style="background-color: lightblue;">
-                    <div class="card-header">Alex Franco</div>
+                <div class="card card-user-story" style="background-color: #90EE90;">
+                    <div class="card-header">david corozo</div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> estudiante,</p>
-                        <p><span class="keyword">Quiero</span> poder ver mi historial de compras,</p>
-                        <p><span class="keyword">Para</span> llevar un registro de mis gastos.</p>
+                        <p><span class="keyword">Como</span> administrador de la base de datos,</p>
+                        <p><span class="keyword">Quiero</span>crear la tabla articulo,</p>
+                        <p><span class="keyword">Para</span>guardar informacion de las productos que se van avender.</p>
                     </div>
                 </div>
 
